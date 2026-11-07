@@ -1,0 +1,12 @@
+*.log
+*.tmp
+__pycache__/
+venv/
+.venv/
+.DS_Store
+.idea/
+.vscode/
+*.pyc
+*.pyo
+install_output.log
+nsa_install_*.log
